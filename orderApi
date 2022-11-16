@@ -4,8 +4,8 @@
 "name" : "Chair" , 
 "country" : "https://mannatthemes.com/urora/horizontal/assets/images/flags/us_flag.jpg" , 
 "Date/Time" : "3/09/2018 4:29 PM" ,
-"Pcs." : "2" , 
-"($)" : "$50" ,
+"Pcs" : "2" , 
+"price" : "$50" ,
 "status" : "shipped"
 } ,
 
@@ -14,8 +14,8 @@
 "name" : "Mobile" , 
 "country" : "https://mannatthemes.com/urora/horizontal/assets/images/flags/french_flag.jpg" , 
 "Date/Time" : "3/15/2018 1:09 PM" ,
-"Pcs." : "1" , 
-"($)" : "$70" ,
+"Pcs" : "1" , 
+"price" : "$70" ,
 "status" : "Delievered"
 } ,
 
@@ -24,8 +24,8 @@
 "name" : "LED" , 
 "country" : "https://mannatthemes.com/urora/horizontal/assets/images/flags/spain_flag.jpg" , 
 "Date/Time" : "3/18/2018 12:09 PM" ,
-"Pcs." : "3" , 
-"($)" : "$200" ,
+"Pcs" : "3" , 
+"price" : "$200" ,
 "status" : "Shipped"
 } ,
 
@@ -34,8 +34,8 @@
 "name" : "Sofa" , 
 "country" : "https://mannatthemes.com/urora/horizontal/assets/images/flags/russia_flag.jpg" , 
 "Date/Time" : "3/27/2018 8:27 PM" ,
-"Pcs." : "2" , 
-"($)" : "$120" ,
+"Pcs" : "2" , 
+"price" : "$120" ,
 "status" : "Shipped"
 } ,
 
@@ -44,8 +44,8 @@
 "name" : "Android" , 
 "country" : "https://mannatthemes.com/urora/horizontal/assets/images/flags/italy_flag.jpg" , 
 "Date/Time" : "4/01/2018 5:09 PM" ,
-"Pcs." : "1" , 
-"($)" : "$150" ,
+"Pcs" : "1" , 
+"price" : "$150" ,
 "status" : "Pending"
 } 
 ]
