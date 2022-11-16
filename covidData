@@ -1,3 +1,3 @@
 [
-{"series":"cases" ,"value":"45%"},{"series":"death" ,"value":"30%"},{"series":"recovered","value":"25%"}
+{"series":"cases" ,"value":"45"},{"series":"death" ,"value":"30"},{"series":"recovered","value":"25"}
 ]
