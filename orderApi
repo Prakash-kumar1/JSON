@@ -1,5 +1,4 @@
 [
-
 {
 "product" : "https://mannatthemes.com/urora/horizontal/assets/images/products/pro1.png" , 
 "name" : "Chair" , 
@@ -48,8 +47,5 @@
 "Pcs." : "1" , 
 "($)" : "$150" ,
 "status" : "Pending"
-} ,
-
-
-
+} 
 ]
