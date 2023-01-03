@@ -1,1 +1,8 @@
-[ {"country":"USA","medals":"1180"},  {"country":"Russia","medals":"473"},   {"country":"Germany","medals":"351"}, {"country":"Britain","medals":"304"},  {"country":"France","medals":"272"},     {"country":"Italy","medals":"263"} ]
+[ 
+{"country":"USA","medals":"1180"},
+{"country":"Russia","medals":"473"}, 
+{"country":"Germany","medals":"351"},
+{"country":"Britain","medals":"304"},
+{"country":"France","medals":"272"}, 
+{"country":"Italy","medals":"263"} 
+]
